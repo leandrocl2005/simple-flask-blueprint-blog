@@ -1,6 +1,6 @@
 # Simple flask blog using blueprint
 
-This project is a very simple version of flask blog app in http://flask.pocoo.org/docs/1.0/tutorial/
+This project is a very simple version of the flask blog app in http://flask.pocoo.org/docs/1.0/tutorial/
 
 The blog show some Renato Russo quotes. Renato Russo was a famous brazilian singer.
 
